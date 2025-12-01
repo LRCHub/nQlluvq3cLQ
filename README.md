@@ -1,0 +1,113 @@
+# れをる – -nil-
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+In 1975, we are born to be free.
+I got it! I got it!
+I'm forced into the deep corner.
+Sorry! Sorry!
+I want to get high.
+But I'm rather happy
+and I ain't got no guts.
+Sorry! Sorry! Ahuaa!
+I got to do it,
+but I am a slacker.
+Sorry! Sorry!
+Take me higher.
+Checkmate away to put it to end.
+Sorry! Sorry! Ahuaa!
+What is it that you want?
+Check what you have,
+and now please just tell me
+what is the one,
+the thing you want.
+There is no respect for
+what you possess,
+because you just
+think about so many stuff,
+don't you? Woo...
+It is OK. All say,
+it "part of everyday".
+Even I'm that way.
+But think about the days always,
+and things you cherish,
+that you care, for 7days.
+You gotta be fair.
+Self-satisfaction,
+you've got me wrong there.
+Touching, smelling, tasting,
+looking, hearing.
+Even jacking off,
+jacking off and feeling sorrow.
+Five sense,
+mind can go beyond all.
+「全てを失う事でしか
+伝わらない事なんだよ…」と
+優しく瞳を閉じ身体が消え行く
+階段の音聴いただけで
+誰か解った幼い頃
+あの日の自分に謝る
+I'm forced into the deep corner.
+Sorry! Sorry!
+I want to get high.
+But I'm rather happy
+and I ain't got no guts.
+Sorry! Sorry! Ahuaa!
+I got to do it,
+but I am a slacker.
+Sorry! Sorry!
+Take me higher.
+Checkmate away to put it to end.
+Sorry! Sorry! Ahuaa!
+What is it that you want?
+Check what you have,
+and now please just tell me
+what is the one,
+the thing you want.
+There is no respect for
+what you possess,
+because you just
+think about so many stuff,
+don't you? Woo...
+It is OK. All say,
+it "part of everyday".
+Even I'm that way.
+But think about the days always,
+and things you cherish,
+that you care, for 7days.
+You gotta be fair.
+Self-satisfaction,
+you've got me wrong there.
+Touching, smelling, tasting,
+looking, hearing.
+Even jacking off,
+jacking off and feeling sorrow.
+Five sense,
+mind can go beyond all.
+全てを失った気がした
+全てが過ぎ去って行く現在
+懐かしい自分が独りを怖がる
+全ての情に凍えたまま
+術も無く大人(ヒト)になってゆく
+霞んだ記憶も今だけ
+In 1975, we are born to be free.
+Look at the sky,
+the surmounting sky!
+I want to become that sky!
+The waiting tree in my rear,
+I thought about going home.
+Look at the sky,
+the surmounting sky!
+I want to become that sky!
+The waiting tree in my rear,
+I thought about going home.
+年老いてゆく事は欲を超越!
+今は亡き温もりが教える!
+既に備わる心身を尊ぶ時目覚める!
+人間のデカイ財産!
+"Foolish calculation!!"
+"My stage!" "My space!"
+"My fate!" "My life!"
+"AHAA YEAH!" "My family!"
+```
