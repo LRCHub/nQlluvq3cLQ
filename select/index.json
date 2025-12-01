@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "-nil-",
+  "base_artist": "れをる",
+  "createdAt": "2025-12-01T14:08:37.698822Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nil Si I nGra",
+      "artist": "Capercaillie",
+      "has_synced": true,
+      "path": "select/01_Nil_Si_I_nGra_Capercaillie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Three Nil",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/02_Three_Nil_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nil Se' Na La",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/03_Nil_Se'_Na_La_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nil Se Ina La (Album Version)",
+      "artist": "Clannad",
+      "has_synced": true,
+      "path": "select/04_Nil_Se_Ina_La_(Album_Version)_Clannad.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Three Nil - Live",
+      "artist": "Slipknot",
+      "has_synced": false,
+      "path": "select/05_Three_Nil_-_Live_Slipknot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nil Recurring",
+      "artist": "Porcupine Tree",
+      "has_synced": false,
+      "path": "select/06_Nil_Recurring_Porcupine_Tree.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nil-Nil-Draw",
+      "artist": "Gym Class Heroes",
+      "has_synced": false,
+      "path": "select/07_Nil-Nil-Draw_Gym_Class_Heroes.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Three Nil",
+      "artist": "Slipknot",
+      "has_synced": true,
+      "path": "select/08_Three_Nil_Slipknot.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Edhirthu Nil",
+      "artist": "Yuvan Shankar Raja, G.V. Prakash Kumar, D. Imman, Vijay Antony & S. Thaman",
+      "has_synced": true,
+      "path": "select/09_Edhirthu_Nil_Yuvan_Shankar_Raja,_G.V._Prakash_Kumar,_D._Imman,_Vijay_Antony_&_S._Thaman.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nil",
+      "artist": "Eluveitie",
+      "has_synced": true,
+      "path": "select/10_Nil_Eluveitie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Slaves of Nil",
+      "artist": "Psycroptic",
+      "has_synced": true,
+      "path": "select/11_Slaves_of_Nil_Psycroptic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ore Nil Doriya",
+      "artist": "Arnob & Nazia Ahmed",
+      "has_synced": true,
+      "path": "select/12_Ore_Nil_Doriya_Arnob_&_Nazia_Ahmed.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nil?",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_01_nil_10-FEET.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Nile in Blue",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_02_Nile_in_Blue_10-FEET.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "nil ?",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_03_nil_10-FEET.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "NILLILI MAMBO (Japanese Version)",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_04_NILLILI_MAMBO_(Japanese_Version)_10-FEET.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "NILLILI MAMBO (Japanese Version)",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_05_NILLILI_MAMBO_(Japanese_Version)_10-FEET.txt"
+    }
+  ]
+}
